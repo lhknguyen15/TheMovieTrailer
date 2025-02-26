@@ -50,7 +50,7 @@ const Banner = () => {
               alt="temp"
               className="w-full h-full object-cover"
             />
-            <div className="w-full h-full absolute top-0 left-0 flex items-center justify-center backdrop-blur-sm opacity-0 group-hover:opacity-100 transition-opacity duration-500 ease-in-out">
+            <div className="w-full h-full absolute top-0 left-0 flex items-center justify-center backdrop-blur-sm opacity-0 group-hover:opacity-100 transition-opacity duration-900 ease-in-out">
               <img
                 src={IconPlay}
                 alt="play"
