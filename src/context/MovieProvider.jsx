@@ -61,7 +61,7 @@ const MovieProvider = ({ children }) => {
         }}
         contentLabel="Example Modal"
       >
-        <YouTube videoId={trailerKey} opts={opts} />;
+        <YouTube videoId={trailerKey} opts={opts} />
       </Modal>
     </MovieContext.Provider>
   );
